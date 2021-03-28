@@ -26,4 +26,4 @@ If using the SA818 modules, I recommend [0x9900's](https://0x9900.com) python co
 See also his excellent blog posts on the interface:
 
 - [Programming the radio module SA818](https://0x9900.com/programming-the-radio-module-sa818/)
-- [https://0x9900.com/connecting-your-tyt-on-a-raspberry-pi/](https://0x9900.com/connecting-your-tyt-on-a-raspberry-pi/)
+- [Connecting your TYT on a Raspberry-Pi](https://0x9900.com/connecting-your-tyt-on-a-raspberry-pi/)
