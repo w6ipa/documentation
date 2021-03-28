@@ -30,6 +30,17 @@ See also his excellent blog posts on the interface:
 
 ### Images of assembled boards
 #### In use
-<img src="pics/radio.jpg"
+<img src="pics/inuse.jpg"
      alt="In use with radio"
      style="float: left; margin-right: 10px;" />
+
+#### Assembled with radio
+<img src="pics/radio.jpg"
+     alt="assembled with radio"
+     style="float: left; margin-right: 10px;" />
+
+#### Assembled with connector
+<img src="pics/connector.jpg"
+     alt="assembled with connector"
+     style="float: left; margin-right: 10px;" />
+     
