@@ -30,7 +30,7 @@ See also his excellent blog posts on the interface:
 
 ### Images of assembled boards
 #### In use
-<img src="pics/inuse.jpg"
+<img src="pics/in-use.jpg"
      alt="In use with radio"
      style="float: left; margin-right: 10px;" />
 
