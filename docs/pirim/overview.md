@@ -1,4 +1,4 @@
-#PI Radio Interface Module
+# PI Radio Interface Module
 
 CM108b based Radio Interface Module in a raspberry Pi HAT format. Ideal to build an AllStar node based on [AllStarLink Raspberry PI images](http://dvswitch.org/files/ASL_Images/Raspberry_Pi/Stretch/)
 
