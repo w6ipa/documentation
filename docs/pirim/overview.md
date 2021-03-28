@@ -23,12 +23,15 @@ Depending on the type of configuration, the recommended parts are:
 
 If using the SA818 modules, I recommend [0x9900's](https://0x9900.com) python code available here : [https://github.com/0x9900/SA818](https://github.com/0x9900/SA818)
 
+Also - the jumper JP2 on the back of the board is setting the SA818 by default to low power mode (see schematic). If needed, cut the trace to use at full power. We do not recommend this setting.
+
 See also his excellent blog posts on the interface:
 
 - [Programming the radio module SA818](https://0x9900.com/programming-the-radio-module-sa818/)
 - [Connecting your TYT on a Raspberry-Pi](https://0x9900.com/connecting-your-tyt-on-a-raspberry-pi/)
 
 ### Images of assembled boards
+Note: Some of the below picture are the version v1.0. The only difference are in the silk screen and JP2 has been moved to the back on the board.
 #### In use
 <img src="pics/in-use.jpg"
      alt="In use with radio"
