@@ -1,4 +1,4 @@
-# PI Radio Interface Module
+## PI Radio Interface Module
 
 CM108b based Radio Interface Module in a raspberry Pi HAT format. Ideal to build an AllStar node based on [AllStarLink Raspberry PI images](http://dvswitch.org/files/ASL_Images/Raspberry_Pi/Stretch/)
 
@@ -27,3 +27,9 @@ See also his excellent blog posts on the interface:
 
 - [Programming the radio module SA818](https://0x9900.com/programming-the-radio-module-sa818/)
 - [Connecting your TYT on a Raspberry-Pi](https://0x9900.com/connecting-your-tyt-on-a-raspberry-pi/)
+
+### Images of assembled boards
+#### In use
+<img src="pics/radio.jpg"
+     alt="In use with radio"
+     style="float: left; margin-right: 10px;" />
